@@ -1,0 +1,10 @@
+D:\work\projects\Hex\Hex\bin\Debug\Hex.exe.config
+D:\work\projects\Hex\Hex\bin\Debug\Hex.exe
+D:\work\projects\Hex\Hex\bin\Debug\Hex.pdb
+D:\work\projects\Hex\Hex\obj\Debug\Hex.csprojResolveAssemblyReference.cache
+D:\work\projects\Hex\Hex\obj\Debug\Hex.Properties.Resources.resources
+D:\work\projects\Hex\Hex\obj\Debug\Hex.csproj.GenerateResource.Cache
+D:\work\projects\Hex\Hex\obj\Debug\Hex.exe
+D:\work\projects\Hex\Hex\obj\Debug\Hex.pdb
+D:\work\projects\Hex\Hex\obj\Debug\Hex.frmMain.resources
+D:\work\projects\Hex\Hex\obj\Debug\Hex.frmTest.resources
